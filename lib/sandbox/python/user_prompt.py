@@ -6,7 +6,6 @@
 #	Edited for use in winpayloads
 
 import ctypes
-import sys
 
 dialogBoxTitle = "Update Complete";
 dialogBoxMessage = "Press OK to Continue"
