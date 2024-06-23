@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.17
 MAINTAINER CharlieDean
 LABEL version="2.0"
 LABEL description="Winpayloads Docker in Alpine!"
